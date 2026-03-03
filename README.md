@@ -1,16 +1,15 @@
-## Hi there 👋
+# Chào mừng, mình là [Tên của bạn]! 👋
 
-<!--
-**hoanghung16/hoanghung16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Giới thiệu về mình
+- 🔭 Mình đang học tập/làm việc tại: **[Tên trường/công ty]**
+- 🌱 Mình đang tập trung nghiên cứu về: **JavaScript, Python và Web Development**
+- 💬 Hãy hỏi mình về: **HTML, CSS hoặc cách bắt đầu lập trình**
+- 📫 Cách liên hệ với mình: **[Email của bạn]**
 
-Here are some ideas to get you started:
+### 🛠 Kỹ năng và Công cụ
+- **Ngôn ngữ:** JavaScript, Python, C++
+- **Frameworks:** React, Node.js
+- **Công cụ:** Git, VS Code, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 Thống kê GitHub
+![Thống kê của tôi](https://github-readme-stats.vercel.app/api?username=[Tên_User_Của_Bạn]&show_icons=true&theme=radical)
