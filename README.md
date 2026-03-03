@@ -11,5 +11,12 @@
 - **Frameworks:** .NET
 - **Công cụ:** Git, VS Code
 
-### 📊 Thống kê GitHub
-![Thống kê của tôi](https://github-readme-stats.vercel.app/api?username=hoanghung16&show_icons=true&theme=radical)
+### 📊 Thống kê GitHub của mình
+
+![Thống kê của Hoang Hung](https://github-readme-stats-eight-theta.vercel.app/api?username=hoanghung16&show_icons=true&theme=radical)
+
+---
+
+### 🚀 Ngôn ngữ sử dụng nhiều nhất
+
+![Ngôn ngữ phổ biến](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hoanghung16&layout=compact&theme=radical)
